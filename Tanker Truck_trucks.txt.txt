@@ -1,0 +1,20 @@
+Truck ID: TN41Y4353
+Owner Name: Kavin
+Availability: true
+
+Truck ID: TN09D1122
+Owner Name: Kavin
+Availability: true
+
+Truck ID: TN72CX4846
+Owner Name: Muthu
+Availability: true
+
+Truck ID: TN72Q1122
+Owner Name: Muthu
+Availability: true
+
+Truck ID: TN64E7891
+Owner Name: Barack
+Availability: true
+

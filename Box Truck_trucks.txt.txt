@@ -1,0 +1,20 @@
+Truck ID: TN72BX0622
+Owner Name: Kavin
+Availability: true
+
+Truck ID: TN27V2211
+Owner Name: Kavin
+Availability: true
+
+Truck ID: TN17W8899
+Owner Name: Muthu
+Availability: true
+
+Truck ID: TN01B0002
+Owner Name: Muthu
+Availability: true
+
+Truck ID: TN72CX3883
+Owner Name: Barack
+Availability: true
+

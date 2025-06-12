@@ -1,0 +1,9 @@
+John,Seena,TRUCK_OWNER,0.0,michealberdinanth@gmail.com
+Kavin,Rajan,TRUCK_OWNER,0.0,michealberdinanth@gmail.com
+Muthu,Selvi,TRUCK_OWNER,0.0,michealberdinanth@gmail.com
+Barack,Obama,TRUCK_OWNER,0.0,michealberdinanth@gmail.com
+Raj,Kumar,LOGISTICS,0.0,michealberdinanth@gmail.com
+Madhu,Mitha,LOGISTICS,9096.4,madhumitha2210006@ssn.edu.in
+Nandu,Lal,LOGISTICS,6534.4,nandhalal2210523@ssn.edu.in
+Mmb,0129,AGENCY,79608.45000000003,michealberdinanth@gmail.com
+Mich,Berd,LOGISTICS,89695.99999999997,michealberdinanth@gmail.com
